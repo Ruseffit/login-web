@@ -12,3 +12,5 @@ Si deseas probarlo localmente desde otra cuenta, puedes clonar este repositorio 
 
 ```bash
 git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+
+![Captura de pantalla de mi Login](./img/captura-login.png)
