@@ -9,8 +9,10 @@ Este es un proyecto personal de una interfaz de inicio de sesión sencilla.
 ## 📂 Cómo usar este código
 
 Si deseas probarlo localmente desde otra cuenta, puedes clonar este repositorio o descargar el archivo ZIP:
+## 📸 Vista previa del diseño
 
+![Captura del Login](./captura-login.png)
 ```bash
 git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
 
-![Captura del Login](./captura-login.png)
+
